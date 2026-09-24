@@ -32,3 +32,16 @@ Dictionaries	Working with key-value pairs
 File Handling	File reading and writing
 
 Data Science Concepts	Introduction to data science concepts and applications
+
+Key Learnings:
+Python is a beginner-friendly language and the foundation for data analysis.
+Functions and loops make code reusable and efficient.
+Lists and dictionaries are the building blocks for handling data.
+File handling is the first step toward working with real datasets.
+
+
+Tools & Technologies:
+Python 3
+Google Colab
+Jupyter Notebook
+Git & GitHub
