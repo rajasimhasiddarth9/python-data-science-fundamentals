@@ -3,7 +3,7 @@ The repository consists of the course work and assignments for Module 1: Python 
 
 Python & Data Science Fundamentals
 
-Module 1 · Day 1 – Day 4
+Module 1 
 
 This repository contains my work for Module 1 of my Data Science program. It covers the installation of a Python environment and an introduction to essential Python skills for data science.
 
@@ -16,10 +16,6 @@ Learn the basics of Python for Data Science.
 Practice working with variables, loops, functions, lists, dictionaries and file handling
 
 Explore Data Science concepts and applications
-
-Topic Covered
-
-Topic	What I practiced
 
 Environment Setup	Setting up Python, Google Colab and Jupyter Notebook
 
